@@ -6,13 +6,14 @@ namespace Classes\ChatArchitect\WhatsApp;
 
 class AppStorage
 {
-    public $appStorageUrl = "https://api.chatarchitect.com/appstorage";
+    public $appStorageUrl;
     public $appstorage_token;
 
     /*return base64 appID and appSecret AppStorage*/
     public function __construct()
     {
-        $this->appstorage_token = base64_encode("email:FLUF3rWWBFbbVNxzf6qT8e");
+        $this->appStorageUrl = $_ENV['APP_STORAGE_URL'];
+        $this->appstorage_token = base64_encode($_ENV['APP_STORAGE_TOKEN']);
     }
 
     /* cURL use WhatsApp appstorage*/
