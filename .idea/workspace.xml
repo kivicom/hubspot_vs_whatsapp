@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35cac7fc-7b08-46e1-9632-0fc770cf80ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/byjg/migration" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/byjg/anydataset-array" />
+      <path value="$PROJECT_DIR$/vendor/hubspot/api-client" />
+      <path value="$PROJECT_DIR$/vendor/byjg/serializer" />
+      <path value="$PROJECT_DIR$/vendor/byjg/uri" />
+      <path value="$PROJECT_DIR$/vendor/byjg/xmlutil" />
+      <path value="$PROJECT_DIR$/vendor/nmred/kafka-php" />
+      <path value="$PROJECT_DIR$/vendor/amphp/amp" />
+      <path value="$PROJECT_DIR$/vendor/byjg/anydataset-db" />
+      <path value="$PROJECT_DIR$/vendor/byjg/anydataset" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/sendgrid/php-http-client" />
+      <path value="$PROJECT_DIR$/vendor/sendgrid/sendgrid" />
+      <path value="$PROJECT_DIR$/vendor/starkbank/ecdsa" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2Fg0q72FYQMrVNDQvGReSbpUDbA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp7.4\htdocs\hubspot.loc\src\views" />
+      <recent name="E:\xampp7.4\htdocs\hubspot.loc\src\actions" />
+      <recent name="E:\xampp7.4\htdocs\hubspot.loc\src" />
+      <recent name="E:\xampp7.4\htdocs\hubspot.loc\src\Endpoints" />
+      <recent name="E:\xampp7.4\htdocs\hubspot.loc\src\Classes\HubSpot\HubDB" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35cac7fc-7b08-46e1-9632-0fc770cf80ab" name="Default Changelist" comment="" />
+      <created>1664898610127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664898610127</updated>
+      <workItem from="1664898611544" duration="988000" />
+      <workItem from="1664899895029" duration="482000" />
+      <workItem from="1664900403684" duration="107000" />
+      <workItem from="1664900947953" duration="1075000" />
+      <workItem from="1664902262700" duration="820000" />
+      <workItem from="1664903106016" duration="10493000" />
+      <workItem from="1665144698095" duration="84703000" />
+      <workItem from="1665731272383" duration="733000" />
+      <workItem from="1665840957373" duration="7723000" />
+      <workItem from="1666020148642" duration="17000" />
+      <workItem from="1666020167330" duration="258000" />
+      <workItem from="1666022278249" duration="42106000" />
+      <workItem from="1666375814140" duration="30874000" />
+      <workItem from="1666697667462" duration="1333000" />
+      <workItem from="1666708824545" duration="286000" />
+      <workItem from="1667400371550" duration="2607000" />
+      <workItem from="1667463768855" duration="70000" />
+      <workItem from="1667477436738" duration="1761000" />
+      <workItem from="1667552226970" duration="10136000" />
+      <workItem from="1667735858669" duration="1246000" />
+      <workItem from="1667898453492" duration="7295000" />
+      <workItem from="1667984791924" duration="58437000" />
+      <workItem from="1668232481906" duration="56582000" />
+      <workItem from="1668790372414" duration="34511000" />
+      <workItem from="1668949812024" duration="2219000" />
+      <workItem from="1668952391404" duration="55000" />
+      <workItem from="1669455322301" duration="9743000" />
+      <workItem from="1669469780556" duration="16892000" />
+      <workItem from="1669550601973" duration="13828000" />
+      <workItem from="1669712635372" duration="39022000" />
+      <workItem from="1669992262631" duration="13947000" />
+      <workItem from="1670152815684" duration="1217000" />
+      <workItem from="1670264459245" duration="30985000" />
+      <workItem from="1670377717233" duration="37624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>remoteDeploymentFS://&lt;322a0ead-69d7-4622-b37e-29bf0cee4b69&gt;/ver1/src/actions/webhook/index.php</url>
+          <line>102</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>remoteDeploymentFS://&lt;322a0ead-69d7-4622-b37e-29bf0cee4b69&gt;/src/actions/contacts/list.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>remoteDeploymentFS://&lt;322a0ead-69d7-4622-b37e-29bf0cee4b69&gt;/src/actions/webhooks/init.php</url>
+          <line>68</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\saveToStorage" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
