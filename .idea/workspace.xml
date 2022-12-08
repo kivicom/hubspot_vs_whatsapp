@@ -4,7 +4,9 @@
     <list default="true" id="35cac7fc-7b08-46e1-9632-0fc770cf80ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/ChatArchitect/WhatsApp/AppStorage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/ChatArchitect/WhatsApp/AppStorage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/ChatArchitect/Helpers/Helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/ChatArchitect/Helpers/Helper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/billing/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/billing/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/installation/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/installation/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +155,7 @@
       <workItem from="1669992262631" duration="13947000" />
       <workItem from="1670152815684" duration="1217000" />
       <workItem from="1670264459245" duration="30985000" />
-      <workItem from="1670377717233" duration="38357000" />
+      <workItem from="1670377717233" duration="39654000" />
     </task>
     <servers />
   </component>

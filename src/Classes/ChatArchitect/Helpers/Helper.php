@@ -47,7 +47,6 @@ class Helper
             }
         }
 
-        file_put_contents("isArray.txt", print_r($data, true) . PHP_EOL, FILE_APPEND);
         return $data;
     }
 

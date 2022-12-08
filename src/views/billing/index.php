@@ -3,9 +3,9 @@
     <div class="card">
         <div class="card-body">
             <a href="/installation/index">
-                <button class="btn btn-warning my-2">Добавить аккаунт</button>
+                <button class="btn btn-warning my-2">Add account</button>
             </a>
-            <h3>Список аккаунтов</h3>
+            <h3>List of accounts</h3>
             <?php if ($rows): ?>
                 <ul class="list-group">
                     <?php foreach ($rows as $item): ?>
@@ -28,8 +28,8 @@
                     <?php endforeach; ?>
                 </ul>
             <?php endif; ?>
-            <a href="/oauth/authorize" class="btn btn-warning mt-2">Переустановить приложение</a>
-            <a href="#" class="btn btn-warning mt-2">Инструкция</a>
+            <a href="/oauth/authorize" class="btn btn-warning mt-2">Re-install the application</a>
+            <a href="#" class="btn btn-warning mt-2">Instructions</a>
         </div>
     </div>
 
@@ -39,19 +39,19 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Удаление аккаунта</h5>
+                    <h5 class="modal-title" id="exampleModalLabel">Deleting an account</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    Вы действительно хотите удалить аккаунт?
+                    Do you really want to delete your account?
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Отмена</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
                     <form id="account-delete-form">
                         <input id="account-input" type="hidden" name="rowId" value="">
                         <input id="billing-phone" type="hidden" name="billingPhone"
                                value="">
-                        <button type="submit" class="btn btn-danger">Удалить аккаунт</button>
+                        <button type="submit" class="btn btn-danger">Delete account</button>
                     </form>
                 </div>
             </div>
